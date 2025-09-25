@@ -1,5 +1,5 @@
 # Drum-Kit
-Wanna make some sound ? Come on , Rock&amp;Roll !
+Wanna make some noise ? Come on , Rock&amp;Roll !
 
 Minigame consist of 7 different drum-kit sounds.
 
